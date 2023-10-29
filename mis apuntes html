@@ -1,0 +1,27 @@
+<html></html>
+Se inicia con una etiqueta : <p>y se finaliza con</p> la etiqueta <img src="" alt=""> sirve para introducir una imagen y podemos ajustarla ">
+la etiqueta <br> sirve para hacer un separado
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Podemos ajustar el titulo segun los tamaños introduciendo la letra H por ejemplo <h1>Titulo</h1> <h2>Titulo</h2> segun el tipo de tamaño que queramos 
+    Utilizamos la etiqueta <ol></ol> para tener una lista ordenada.
+    Dentro de la lista con la etiqueta <li></li> podemos agregar puntos
+    <li>Primer punto</li>
+    <li>Segundo punto</li>
+    Con la etiqueta <ul></ul> creamos una lista ordenada
+    <ul> 
+        <li>Parte uno</li>
+        <li>Parte dos</li>
+        Con la etiqueta <hr> creamos una linea para tener una espacio separatorio en nuestra web 
+
+    </ul>
+    Para introducir un enlace utilizamos la etiqueta <a href="https://www.abc.es/">aqui ponemos el nombre que queremos que aparezca en el documento</a>
+   Con la etiqueta <center></center> centramos el titulo 
+  Con la etiqueta  <b></b> ponemos el texto en negrita
+</body>
+</html>

@@ -36,3 +36,13 @@ Este texto esta en **_negrita y cursiva_**
 |Col 3 es | Derecha | 5$|
 |Estilo cebra| Gris|Blanco|
 |Clase| ASIX1|M4|
+
+<html>
+    <head>
+
+    </head>
+    <p>Esto es un parrafo</p>
+</html>
+```
+[Esto es un enlace](https://www.fje.edu/ca/jesuites-bellvitge) "Enlace a la web del cole"
+[Esto es una imagen] <img src="manzana.jpg" alt="">
